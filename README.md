@@ -1,4 +1,5 @@
-# 3308_team4_lab
-something
-eric prologo says hi
-Project Team Members:
+
+# 3308_team4_lab3
+
+correction made by eric,griffin
+
